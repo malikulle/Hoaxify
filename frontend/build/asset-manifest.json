@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25606019.chunk.css",
+    "main.js": "/static/js/main.b9a6f3e4.chunk.js",
+    "main.js.map": "/static/js/main.b9a6f3e4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4f0916e5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4f0916e5.js.map",
+    "static/css/2.914ef353.chunk.css": "/static/css/2.914ef353.chunk.css",
+    "static/js/2.0a4b5c86.chunk.js": "/static/js/2.0a4b5c86.chunk.js",
+    "static/js/2.0a4b5c86.chunk.js.map": "/static/js/2.0a4b5c86.chunk.js.map",
+    "static/js/3.1877d940.chunk.js": "/static/js/3.1877d940.chunk.js",
+    "static/js/3.1877d940.chunk.js.map": "/static/js/3.1877d940.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.914ef353.chunk.css.map": "/static/css/2.914ef353.chunk.css.map",
+    "static/css/main.25606019.chunk.css.map": "/static/css/main.25606019.chunk.css.map",
+    "static/js/2.0a4b5c86.chunk.js.LICENSE.txt": "/static/js/2.0a4b5c86.chunk.js.LICENSE.txt",
+    "static/media/hoaxify.e76cb420.png": "/static/media/hoaxify.e76cb420.png",
+    "static/media/profile.06c30927.png": "/static/media/profile.06c30927.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f0916e5.js",
+    "static/css/2.914ef353.chunk.css",
+    "static/js/2.0a4b5c86.chunk.js",
+    "static/css/main.25606019.chunk.css",
+    "static/js/main.b9a6f3e4.chunk.js"
+  ]
+}
