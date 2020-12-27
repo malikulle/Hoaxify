@@ -26,4 +26,10 @@ public class Hoax {
 
     @OneToOne(mappedBy = "hoax", cascade = CascadeType.REMOVE)
     private FileAttachment fileAttachment;
+
+
+
+
+
+    
 }
